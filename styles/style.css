@@ -1,0 +1,93 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0%;
+}
+li a{
+    color: rgb(248, 244, 244);
+    text-decoration: none;
+}
+li{
+    margin: 2%;
+}
+h1 a{
+    font-size: 40px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: #007bff;
+}
+nav{
+    background-color: #02236d;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+div p{
+    color: white;
+}
+nav img{ /*escudo en navegador*/
+        width: 6%;
+        height: 18%;
+}
+main section img{ /*bombonera*/
+                width: 100%;
+                padding: 10px 0px 0px 0px;
+}
+.noticiapagprincipal{
+            width: 450px;
+            padding: 50px 0px 50px 0px;
+            align-items: center;
+}
+.noticiapagprincipal2{
+            width: 450px;
+            padding: 50px 0px 50px 0px;
+            align-items: center;
+}
+.noticiasprincipales{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+footer{
+    background-color: #02236d;
+    border-radius: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+footer img{
+    width: 60px;
+}
+.fixtures{
+    justify-content: space-around;
+    padding: 20px 0px 20px 0px;
+}
+.fixture{
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+}
+.col-4 img{
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+}
+.eslogan{
+    padding: 20px 0px 20px 50px;
+}
+.asociateform{
+    padding: 5px 10px 30px 10px;
+}
+.botonform{
+    background-color: rgb(255, 251, 0);
+    margin: 0px 0px 50px 100px;
+}
