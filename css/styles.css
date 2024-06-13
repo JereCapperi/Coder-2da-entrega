@@ -1,0 +1,164 @@
+body {
+  background-color: #02236d;
+}
+body header nav {
+  background-color: #007bff;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+body header div img {
+  width: 6%;
+  height: 18%;
+}
+body header div h1 {
+  font-size: 40px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+body header div ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0%;
+}
+body header div ul li {
+  margin: 2%;
+}
+body header div ul li a {
+  color: rgb(248, 244, 244);
+  text-decoration: none;
+}
+
+main section img {
+  width: 100%;
+  padding: 10px 0px 0px 0px;
+}
+
+h2, h4, p, h6 {
+  color: white;
+}
+
+footer {
+  background-color: #007bff;
+  border-radius: 30%;
+}
+footer section {
+  display: flex;
+}
+footer img {
+  width: 60px;
+}
+
+form div label {
+  color: white;
+}
+
+.noticiapagprincipal {
+  width: 450px;
+  padding: 50px 0px 50px 0px;
+  align-items: center;
+}
+
+.noticiapagprincipal2 {
+  width: 450px;
+  padding: 50px 0px 50px 0px;
+  align-items: center;
+}
+
+.noticiasprincipales {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.fixtures {
+  justify-content: space-around;
+  padding: 20px 0px 20px 0px;
+}
+
+.fixture {
+  justify-content: center;
+  padding: 20px 0px 20px 0px;
+}
+
+.col-4 img {
+  width: 100%;
+  padding: 20px 0px 20px 0px;
+}
+
+.eslogan {
+  padding: 20px 0px 20px 50px;
+}
+
+.asociateform {
+  padding: 5px 10px 30px 10px;
+}
+
+.botonform {
+  background-color: rgb(255, 251, 0);
+  margin: 0px 0px 50px 100px;
+}
+
+.proxpartidosmenu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.plantel {
+  margin: 0% 20% 0% 20%;
+}
+
+.cp {
+  margin: 0% 20% 5% 20%;
+}
+
+.fotosgente {
+  padding: 0% 5% 0% 5%;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between !important;
+}
+
+.listamenu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.historia {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.historiaultimo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 2% 0% 5% 0%;
+}
+
+div label {
+  color: white;
+}
+
+.centrado {
+  display: flex;
+  justify-content: center;
+}
+
+.copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
