@@ -9,7 +9,7 @@ li a{
     text-decoration: none;
 }
 li{
-    margin: 2%;
+    margin: 3%;
 }
 h1 a{
     font-size: 40px;
@@ -59,6 +59,9 @@ main section img{ /*bombonera*/
     flex-direction: row;
     justify-content: space-around;
 }
+footer{
+    margin: 1%;
+}
 footer section section{
     background-color: #007bff;
     display: flex;
@@ -69,6 +72,7 @@ footer section section{
 footer div{
     display: flex;
     align-items: center;
+    margin: 1%;
 }
 
 footer img{

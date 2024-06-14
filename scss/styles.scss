@@ -43,7 +43,7 @@ body{
                     @include flex-center(row, flex-start);
                     padding: $padding-no;
                     li{
-                        margin: 2%;
+                        margin: 3%;
                         a{
                             color: $color-light-gray;
                             text-decoration: none;
@@ -65,6 +65,7 @@ h2, h4, p, h6 {
   color: $color-white;
 }
 footer {
+    margin: 1%;
     background-color: $color-light-blue;
     border-radius: $border-radius-large;
     section{
